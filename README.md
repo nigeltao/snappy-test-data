@@ -12,8 +12,8 @@ files.
 ## Copying
 
 This repository's [Apache 2 LICENSE](./LICENSE) applies to source code in this
-repository (outside of `testdata_*`). As of 2019-02-24, there is no such source
-code, but some might be added in the future.
+repository (including `*.sh` files in the top level directory, but excluding
+files inside `testdata_*` directories).
 
 
 ### testdata\_original

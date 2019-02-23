@@ -1,1 +1,7 @@
-There are no testdata_extra files, as of 2019-02-24.
+`snappy.cc` was copied from the `https://github.com/google/snappy` repository,
+under the same copying conditions as detailed in `testdata_original_COPYING` in
+this repository. Note that this file is not intended to be used as software per
+se. To do that, refer to the original `google/snappy` repository. Instead, it
+is merely example input (but otherwise treated as an opaque byte stream) to
+measure how well C++ source code compresses, compared to how well e.g. HTML
+pages, JPEG data or Shakespeare's plays compresses.
